@@ -1,0 +1,3 @@
+Question: In task 1, you were to identify where your group will save files for this project. What was your decision? What will you do to ensure everyone has access to the files? How often will you backup the project files, in the event that the primary storage option is lost or unavailable?
+
+Answer: We have decided to save to a github, but also do our editing locally and upload to the hub afterwards. Everyone in the group will have access to the files and be able to edit freely. The files will be backed up after every edit that is made.
